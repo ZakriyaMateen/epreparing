@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773348532168",
+    "project_id": "epreparation-81952",
+    "storage_bucket": "epreparation-81952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773348532168:android:6d82007f030ab2ecb02afd",
+        "android_client_info": {
+          "package_name": "com.example.epreparing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773348532168-l1og7ir0o9kl6a7vihe09mdleanc0v1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciSLHad6r5Pxdr-QNk84PX4wZf8B9J_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773348532168-l1og7ir0o9kl6a7vihe09mdleanc0v1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
